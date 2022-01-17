@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmmlaple&show_icons=true&theme=dark&locale=en&layout=compact" alt="hmmlaple" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmmlaple&show_icons=true&theme=dark&locale=en" alt="hmmlaple" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmmlaple&theme=dark" alt="hmmlaple" /></p>
 
