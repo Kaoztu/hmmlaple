@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hmmlopl@hmmlopl.net**
 
-- ⚡ Fun fact **i am adopted**
+- ⚡ Fun fact **Ballz*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
