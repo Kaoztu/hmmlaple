@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [idfk at this point]
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **joebiden script**
 
 - 📫 How to reach me **hmmlopl@hmmlopl.net**
 
