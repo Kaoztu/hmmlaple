@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hmmlopl</h1>
+<h1 align="center">I'm Hmmlopl UwU</h1>
 <h3 align="center">among us is a bad game ngl.</h3>
 
-(i never use github btw) i mostly code locally on my servers
+(i never use github btw)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmlaple&label=Profile%20views&color=0e75b6&style=flat" alt="hmmlaple" /> </p>
 
@@ -11,11 +11,9 @@
 
 - 🔭 I’m currently working on [idfk at this point]
 
-- 🌱 I’m currently learning **joebiden script**
+- 🌱 I’m currently learning **nothing**
 
-- 📫 How to reach me **hmmlopl@hmmlopl.net**
-
-- ⚡ Fun fact **Ballz*
+- 📫 How to reach me **lopl@lopl.moe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
