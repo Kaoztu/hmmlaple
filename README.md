@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [idfk at this point]
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **electron js**
 
 - 📫 How to reach me **lopl@lopl.moe**
 
