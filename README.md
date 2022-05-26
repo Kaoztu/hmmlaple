@@ -1,5 +1,14 @@
 <h1 align="center">I'm Hmmlopl UwU</h1>
-<h3 align="center">among us is a bad game ngl.</h3>
+<!--testing-->
+```js story
+export const JsStory = () => {
+  const calculateSomething = 12;
+  return html`
+    <demo-wc-card .header=${`Something: ${calculateSomething}`}>JS Story</demo-wc-card>
+  `;
+};
+```
+
 
 (i never use github btw)
 
