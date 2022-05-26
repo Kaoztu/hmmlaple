@@ -29,5 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmmlaple&theme=dark" alt="hmmlaple" /></p>
 
-python is funny haha someone save me i have been coding for 48 hours straight please send help
-
