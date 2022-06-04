@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/hmmlopl" target="blank"><img src="https://img.shields.io/twitter/follow/hmmlopl?logo=twitter&style=for-the-badge" alt="hmmlopl" /></a> </p>
 
-- 🔭 I’m currently working on [idfk at this point]
+- 🔭 I’m currently working on [falseboot?]
 
-- 🌱 I’m currently learning **electron js**
+- 🌱 I’m currently learning **nothing**
 
 - 📫 How to reach me **hmmlopl@lopl.moe**
 
