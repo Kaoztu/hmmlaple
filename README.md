@@ -1,6 +1,5 @@
 <h1 align="center">I'm Hmmlopl UwU</h1>
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=62934E&lines=python;js;electron;java;react;svelte;%26+more)](https://git.io/typing-svg)</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=62934E&lines=python;js;electron;java;react;svelte;%26+more)](https://git.io/typing-svg)
 
 
 
