@@ -2,8 +2,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=62934E&lines=python;js;electron;java;react;svelte;%26+more)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmlaple&label=Profile%20views&color=0e75b6&style=flat" alt="hmmlaple" /> </p>
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=hmmlopl)](https://github.com/gazf/github-readme-twitter)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmmlaple" alt="hmmlaple" /></a> </p>
 
