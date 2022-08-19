@@ -11,6 +11,3 @@ You can find me on:
 
 <p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/></p>
 
-
-
-<!--> -markdown makes no sense lmao </!-->
