@@ -1,6 +1,6 @@
 <img src="https://github.com/hmmlaple/hmmlaple/blob/main/header.png"> </img>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hmmlaple&show_icons=true&line_height=45&include_all_commits=true" />
+![frappe user preview](https://github-readme-stats.vercel.app/api?username=hmmlaple&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 
 ### I use:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=62934E&lines=python;js;electron;java;react;svelte;%26+more)](https://git.io/typing-svg) 
