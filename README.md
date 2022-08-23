@@ -10,7 +10,7 @@ You can find me on:
   [Twitter](https://twitter.com/hmmlopl) - [Email](mailto:hmmlopl@hmmlopl.net)
 </div>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hmmlople&loved=true)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hmmlople&loved=true&count=1&loved_style=3)
 
 <p><img align="center" src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/></p>
 
