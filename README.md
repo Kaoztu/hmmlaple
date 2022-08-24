@@ -92,7 +92,4 @@ You can find me on:
 
 
 
-
-
-
-note:test
+working on:AMSCR (suite not the webapp)
